@@ -14,10 +14,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Proyectos Destacados
 
-### [Proyecto 1: Análisis de Ventas]
-- **Descripción:** Un análisis exhaustivo de los datos de ventas de una empresa para identificar tendencias y oportunidades de crecimiento.
-- **Herramientas utilizadas:** Python, Pandas, Matplotlib
-- **Repositorio:** [Enlace al repositorio del proyecto](https://github.com/tuusuario/proyecto1)
+### [Project 1: Analysis Global Internet Users]
+- **Description:** An analysis of the data through google sheets to then generate visual reports using the tool Looker studio to understand the use of the internet in the world since its beginnings.
+- **Used Tools:** Google Sheets, Looker Studio
+- **Repository:** [Link to the project repository](https://github.com/panchoquiroga/Data-Visualization---Global-Internet-users)
 
 ### [Proyecto 2: Predicción de Churn de Clientes]
 - **Descripción:** Un modelo predictivo para identificar clientes que tienen una alta probabilidad de abandonar el servicio.
