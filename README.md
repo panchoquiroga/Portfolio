@@ -1,4 +1,4 @@
-# Portfolio de Analista de Datos
+# Portfolio of Data Analyst
 
 Hello, my name is Francisco. As a data analyst with a strong background in mechanical engineering, I'm excited to continue growing in the exciting world of data. I'm looking for new opportunities to develop my career and apply my skills in this constantly evolving field.
 
@@ -6,25 +6,25 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Habilidades
+## Skills
 
-- **Lenguajes de Programación:** Python, SQL
-- **Herramientas y Tecnologías:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker Studio
-- **Áreas de Especialización:** Análisis exploratorio de datos, Modelado predictivo, Visualización de datos
+- **Programming languages:** Python, SQL
+- **Tools and technologies:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker Studio, Deepnote
+- **Areas of expertise:** Exploratory data analysis, Data visualization, Predictive modeling
 
-## Proyectos Destacados
+## Outstanding projects
 
-### [Project 1: Analysis Global Internet Users]
+### [Project 1: Data Visualization Global Internet Users]
 - **Description:** An analysis of the data through google sheets to then generate visual reports using the tool Looker studio to understand the use of the internet in the world since its beginnings.
-- **Used Tools:** Google Sheets, Looker Studio
+- **Tools Used:** Google Sheets, Looker Studio
 - **Repository:** [Link to the project repository](https://github.com/panchoquiroga/Data-Visualization---Global-Internet-users)
 
-### [Proyecto 2: Predicción de Churn de Clientes]
-- **Descripción:** Un modelo predictivo para identificar clientes que tienen una alta probabilidad de abandonar el servicio.
-- **Herramientas utilizadas:** R, Scikit-learn, Tableau
-- **Repositorio:** [Enlace al repositorio del proyecto](https://github.com/tuusuario/proyecto2)
+### [Project 2: Exploratory Analysis]
+- **Description:** The data was analysed in a series of academic exams and data were processed to analyse correlations and identify patterns of behaviors.
+- **Tools used:** Phyton, Pandas, Numpy, Matplotlib, Seaborn, Deepnote
+- **Repository:** [Enlace al repositorio del proyecto](https://github.com/panchoquiroga/Exploratory-analysis)
 
-## Contacto
+## Contact
 
 - [LinkedIn](www.linkedin.com/in/francisco-quiroga-195904b0)
-- [Correo Electrónico](mailto:pablofranciscoquiroga@gmail.com)
+- [Email](mailto:pablofranciscoquiroga@gmail.com)
