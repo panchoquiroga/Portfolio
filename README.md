@@ -22,13 +22,13 @@ This is a repository to showcase skills, share projects and track my progress in
 ### [Project 2: Exploratory Analysis]
 - **Description:** The data was analysed in a series of academic exams and data were processed to analyse correlations and identify patterns of behaviors.
 - **Tools used:** Phyton, Pandas, Numpy, Matplotlib, Seaborn, Deepnote
-- **Repository:** [Enlace al repositorio del proyecto](https://github.com/panchoquiroga/Exploratory-analysis)
+- **Repository:** [Link to the project repository](https://github.com/panchoquiroga/Exploratory-analysis)
 
 
 ### [Project 3: Machine Larning Crimes Prediction]
 - **Description:** Crime Prediction Project in Buenos Aires: Leveraging Data Science to Enhance Public Safety. This initiative applied data science expertise to analyze and process crime data, followed by the implementation of machine learning models to generate highly accurate predictions.
 - **Tools used:** Phyton, Pandas, Numpy, Matplotlib, Seaborn, Deepnote, sklearn
-- **Repository:** [Enlace al repositorio del proyecto](https://github.com/panchoquiroga/Machine-Learning---Crimes-Prediction-)
+- **Repository:** [Link to the project repository](https://github.com/panchoquiroga/Machine-Learning---Crimes-Prediction-)
 
 ## Contact
 
