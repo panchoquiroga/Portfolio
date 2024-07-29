@@ -1,4 +1,4 @@
-# Portfolio of Data Analyst
+# Portfolio of Data Analyst & Data Science
 
 Hello, my name is Francisco. As a data analyst with a strong background in mechanical engineering, I'm excited to continue growing in the exciting world of data. I'm looking for new opportunities to develop my career and apply my skills in this constantly evolving field.
 
